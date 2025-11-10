@@ -1,8 +1,10 @@
-(Deprecated) Create an interactive Dice Roller app - Solution Code
+(Deprecated) Create an interactive Dice Roller app
 =====================================================
 
+> Previous maintainer: https://github.com/google-developer-training
+
 > [!CAUTION]
-> This codelab is deprecated and it will be removed soon.
+> This codelab is deprecated.
 
 Solution code for the Android Basics in Kotlin: Create an interactive Dice Roller app codelab.
 Starter code for the Android Basics in Kotlin:  Add more conditional behavior in Kotlin codelab.
@@ -19,11 +21,12 @@ You need to know:
 - Familiar with using TextViews and ImageViews in an app.
 - How to modify the attributes of a TextView in the Layout Editor.
 - How to extract text into a string resource to make it easier to translate your app and reuse strings.
-- Kotlin programming basics as taught in the previous codelabs.
-
+ 
 
 
 Getting Started
 ---------------
 
-1. Download and run the app.
+1. Download and install [Android Studio](https://developer.android.com/studio).
+2. Import the project.
+3. Build and run the application.
